@@ -13,7 +13,7 @@
 - [Contributing](#contributing)
   
 ## Project Overview
-This project involves the creation of a comprehensive dashboard to analyze key performance indicators (KPIs) for National Rail. The dashboard is designed to help identify popular routes, determine peak travel times, analyze revenue from different ticket types and classes, and diagnose on-time performance and contributing factors to delays and cancellations. 
+This project involves the creation of a comprehensive dashboard to analyze key performance indicators (KPIs) for UK Rail. The dashboard is designed to help identify popular routes, determine peak travel times, analyze revenue from different ticket types and classes, and diagnose on-time performance and contributing factors to delays and cancellations. 
 
 The dashboard includes calculated measures such as Refunds, Average Refunds, Average Revenue, Refund Rate, Sales Quantity, Total Refunds, and Total Revenue.
 
